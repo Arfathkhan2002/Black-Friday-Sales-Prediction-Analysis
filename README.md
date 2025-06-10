@@ -1,4 +1,3 @@
-
 # Black Friday Sales Prediction 🛒📊
 This project focuses on analyzing Black Friday sales data and building machine learning models to predict customer purchase amounts.
 
@@ -22,7 +21,5 @@ This project focuses on analyzing Black Friday sales data and building machine l
 
 ## 🚀 Outcome
 The model helps understand customer behavior and estimate purchase amounts more accurately using historical data.
-=======
-# Black-Friday-Sales-Prediction-Analysis
-A prediction on the black Fridays sale based on the test data set and training the model for further prediction of the products sold during sale 
+
 
